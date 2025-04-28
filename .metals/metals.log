@@ -1,0 +1,619 @@
+2025.04.28 22:21:47 INFO  Started: Metals version 1.5.2 in folders '/Users/jake/Code/scala-spark' for client Trae 1.98.2.
+2025.04.28 22:21:47 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:21:54 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:21:54 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:21:54 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 28, 2025 10:21:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.04.28 22:21:54 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 28, 2025 10:21:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Apr 28, 2025 10:21:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Apr 28, 2025 10:21:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2025.04.28 22:21:54 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:21:59 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:21:59 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:21:59 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:21:59 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:21:59 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:21:59 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:22:13 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:27:14 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala
+2025.04.28 22:27:14 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:27:14 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:27:14 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:27:14 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:27:15 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:27:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:27:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:27:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:27:24 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:27:24 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:27:24 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:27:24 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:28:08 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:31:59 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala
+2025.04.28 22:31:59 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:31:59 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:32:06 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala
+2025.04.28 22:32:06 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:32:06 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 28, 2025 10:32:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.04.28 22:32:18 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala
+2025.04.28 22:32:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:32:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:32:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:33:09 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:35:50 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:35:51 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:35:51 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:35:51 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:35:51 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:35:51 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:36:07 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:36:07 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:36:07 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:36:07 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:36:07 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:36:08 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:36:08 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:36:08 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:36:08 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:36:08 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:36:08 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:36:08 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:36:08 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:36:08 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:36:08 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:36:08 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:36:08 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:00 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:21 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:37:21 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:21 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:21 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:21 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:37:21 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:21 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:37:21 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:21 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:37:21 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:21 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:37:21 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:22 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:22 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:37:33 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala
+2025.04.28 22:37:33 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:33 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:33 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:37 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:37:37 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:37 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:38 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala
+2025.04.28 22:37:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:40 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/SparkDemo.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:43 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:37:43 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:43 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:43 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:46 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:37:46 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:46 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:37:46 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:37:46 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:40:54 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:40:55 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:40:55 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:40:55 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:40:55 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:40:54 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:40:55 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:40:55 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:40:55 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:40:54 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:40:55 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:40:55 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:41:49 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:41:49 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:41:49 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:41:50 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:41:50 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:41:49 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:41:50 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:41:50 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:41:50 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:41:50 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:41:50 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:08 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:08 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:08 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:08 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:08 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:08 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:08 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:08 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:31 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:31 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:31 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:31 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:31 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:31 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:31 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:31 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:31 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:33 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:35 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:35 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:35 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:37 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:37 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:37 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:37 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:37 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:37 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:37 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:37 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:38 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:38 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:40 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:40 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:41 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:41 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:41 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:41 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:41 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:41 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:41 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:41 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:42 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:42 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:42 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:42 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:42 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:42 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:42 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:42:42 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:42:42 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:43:37 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:43:38 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:43:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:43:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:45:06 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:45:09 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:45:09 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:45:09 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:45:09 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:45:56 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:45:56 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:45:56 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:45:56 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:46:16 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:46:16 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:46:16 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:46:16 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:46:16 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:46:16 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:46:16 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:24 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:29 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:33 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:33 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:37 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:37 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:38 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:48:37 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:39 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:39 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:40 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:40 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:41 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:41 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:41 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:48:41 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:48:42 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:12 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:13 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:15 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:16 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:16 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:16 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:16 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:19 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:19 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:19 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:19 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:19 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:19 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:19 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:19 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:20 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:19 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:20 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:20 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:20 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:21 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:20 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:20 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:22 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:22 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:22 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:22 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:23 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:23 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:23 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:23 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:23 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:24 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:24 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:25 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:24 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:24 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:25 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:25 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:25 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:26 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:25 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:25 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:26 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:25 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:25 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:26 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:26 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:27 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:27 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:27 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:27 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:29 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:29 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:29 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:29 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:29 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:29 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:30 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:30 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:31 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:31 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:31 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:31 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:33 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:33 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:33 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:33 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:35 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:37 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:37 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 28, 2025 10:49:37 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: printSchema. (full report at: /Users/jake/Code/scala-spark/.metals/.reports/metals-full/2025-04-28/r_empty-definition_22-49-37-950.md)
+2025.04.28 22:49:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:39 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:38 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:40 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:40 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:40 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:40 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:40 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:42 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:42 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:42 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:42 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 28, 2025 10:49:42 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: show. (full report at: /Users/jake/Code/scala-spark/.metals/.reports/metals-full/2025-04-28/r_empty-definition_22-49-42-550.md)
+2025.04.28 22:49:43 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:43 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:43 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:43 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:43 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:43 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:43 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:43 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:44 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:44 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:44 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:45 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:45 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:45 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:44 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:46 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:46 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:47 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:47 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:47 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:48 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:48 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:48 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:48 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:49 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:49 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:50 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:50 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:49 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:50 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:50 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:50 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:50 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:51 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:50 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:50 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:50 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:51 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:51 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:52 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:49:52 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:53 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:49:59 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:25 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:25 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:25 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:26 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:26 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:26 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:29 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:29 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:28 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:30 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:30 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:50:29 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:30 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:30 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:30 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:30 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:30 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:31 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:31 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:32 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:32 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:32 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:32 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:33 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:32 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:32 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:32 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:32 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:33 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:32 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:34 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:50:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:34 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:36 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:50:37 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:37 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:37 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:37 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:41 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:44 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:44 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:44 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:44 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:44 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:44 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:44 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:45 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:50:45 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:46 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:46 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:46 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:45 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 28, 2025 10:50:46 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/jake/Code/scala-spark/.metals/.reports/metals-full/2025-04-28/r_empty-definition_22-50-46-684.md)
+2025.04.28 22:50:46 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:46 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:46 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:46 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:47 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:47 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:48 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:50:48 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:51 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:50:51 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:51 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:51 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:50:59 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:59 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:50:59 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:50:59 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:53:45 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:53:45 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/project/plugins.sbt
+2025.04.28 22:53:45 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:53:45 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:53:45 WARN  no build target for: /Users/jake/Code/scala-spark/project/plugins.sbt
+2025.04.28 22:53:45 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:53:45 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/project/plugins.sbt
+2025.04.28 22:53:45 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:53:45 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:53:45 WARN  no build target for: /Users/jake/Code/scala-spark/project/plugins.sbt
+2025.04.28 22:53:45 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:53:45 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:53:45 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/project/plugins.sbt
+2025.04.28 22:53:45 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:53:45 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:53:45 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/project/plugins.sbt
+2025.04.28 22:53:58 WARN  no build target for: /Users/jake/Code/scala-spark/project/plugins.sbt
+2025.04.28 22:53:58 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:53:58 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:53:58 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/project/plugins.sbt
+2025.04.28 22:53:58 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:54:01 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:54:01 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:54:56 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:54:56 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:54:56 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 22:54:56 INFO  no build target found for /Users/jake/Code/scala-spark/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:54:57 WARN  no build target for: /Users/jake/Code/scala-spark/project/plugins.sbt
+2025.04.28 22:54:57 WARN  no build target for: /Users/jake/Code/scala-spark/project/plugins.sbt
+2025.04.28 22:55:09 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:55:09 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:55:09 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:55:09 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:55:09 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:55:09 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:55:09 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:55:09 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:55:09 WARN  no build target for: /Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:55:09 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:55:09 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:55:09 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:55:09 WARN  Could not find semantic tokens for: file:///Users/jake/Code/scala-spark/build.sbt
+2025.04.28 22:57:38 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:57:38 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:57:38 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:57:38 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 22:57:42 INFO  no build target found for /Users/jake/Code/scala-spark/build.sbt. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:41 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 23:03:41 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:42 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:41 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:41 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:48 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:48 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:49 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:49 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:51 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:51 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:51 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:51 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 23:03:52 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:51 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:51 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:52 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:52 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:52 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:54 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:55 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:55 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 23:03:55 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:55 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:57 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:57 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:57 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:03:57 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 23:03:57 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:04:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:04:35 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:04:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:04:36 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 23:04:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:04:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:04:36 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 23:04:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:04:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:04:36 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:04:49 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:04:55 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:04 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:04 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:04 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:06 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:06 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:07 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:07 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:07 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 23:06:07 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:17 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 28, 2025 11:06:18 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: /Users/jake/Code/scala-spark/.metals/.reports/metals-full/2025-04-28/r_empty-definition_22-50-46-684.md)
+2025.04.28 23:06:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:18 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:19 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:19 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 23:06:19 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:19 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:06:20 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:08:49 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 23:08:49 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:08:49 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:08:49 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:10:01 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:10:01 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 23:10:01 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:10:01 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:10:01 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:10:01 WARN  no build target for: /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala
+2025.04.28 23:10:01 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:10:26 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:10:26 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:10:42 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.28 23:11:08 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
+Apr 28, 2025 11:11:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.04.28 23:12:56 INFO  no build target found for /Users/jake/Code/scala-spark/src/main/scala/ReadAAPLCSV.scala. Using presentation compiler with project's scala-library version: 3.3.5
