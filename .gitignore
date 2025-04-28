@@ -1,0 +1,48 @@
+# Scala specific
+target/
+project/target/
+project/project/
+
+# IDE specific
+.idea/
+*.iml
+
+# Environment specific
+.DS_Store
+*.log
+*.tmp
+
+# Spark specific
+derby.log
+metastore_db/
+spark-warehouse/
+
+# Build output
+out/
+dist/
+
+# Test output
+test-output/
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# SBT specific
+lib_managed/
+.sbtopts
+.sbt/
+
+# Mac OS X
+.DS_Store
+
+# Vim swap files
+*.swp
+*.swo
